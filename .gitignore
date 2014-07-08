@@ -1,0 +1,8 @@
+gaurav.pub
+gauraav
+*.[oa]
+*~
+Movies/
+Music/*
+*
+!.gitignore
